@@ -27,7 +27,7 @@ const TempleByRegion = () => {
             src="/images/force.jpg" 
             alt="ภาคกลาง"
           />
-          <p className="text-center mt-2">ภาคกล</p>
+          <p className="text-center mt-2">ภาคกลาง</p>
         </div>
 
        
